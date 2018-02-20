@@ -28,6 +28,12 @@
 		4B774908203CA61200AE7B4E /* Node.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Node.hpp; sourceTree = "<group>"; };
 		4B77490A203CA8A000AE7B4E /* LinearNode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LinearNode.hpp; sourceTree = "<group>"; };
 		4B77490D203CAC7200AE7B4E /* DoubleNode.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DoubleNode.hpp; sourceTree = "<group>"; };
+		4B77490E203CADB300AE7B4E /* List.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = List.hpp; sourceTree = "<group>"; };
+		4B77490F203CAFAE00AE7B4E /* LinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LinkedList.hpp; sourceTree = "<group>"; };
+		4B774910203CAFC700AE7B4E /* Array.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Array.hpp; sourceTree = "<group>"; };
+		4B774911203CAFDD00AE7B4E /* Queue.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Queue.hpp; sourceTree = "<group>"; };
+		4B774912203CAFEC00AE7B4E /* Stack.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Stack.hpp; sourceTree = "<group>"; };
+		4B774913203CAFFB00AE7B4E /* CircularList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = CircularList.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +133,12 @@
 		4B774906203CA53C00AE7B4E /* Linear */ = {
 			isa = PBXGroup;
 			children = (
+				4B77490E203CADB300AE7B4E /* List.hpp */,
+				4B77490F203CAFAE00AE7B4E /* LinkedList.hpp */,
+				4B774910203CAFC700AE7B4E /* Array.hpp */,
+				4B774911203CAFDD00AE7B4E /* Queue.hpp */,
+				4B774912203CAFEC00AE7B4E /* Stack.hpp */,
+				4B774913203CAFFB00AE7B4E /* CircularList.hpp */,
 			);
 			path = Linear;
 			sourceTree = "<group>";
